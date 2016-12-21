@@ -2,5 +2,9 @@
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

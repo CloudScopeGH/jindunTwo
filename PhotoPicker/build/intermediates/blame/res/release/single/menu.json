@@ -6,5 +6,13 @@
     {
         "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\photopicker_menu_picker.xml",
         "source": "D:\\jindun-master\\PhotoPicker\\src\\main\\res\\menu\\photopicker_menu_picker.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\photopicker_menu_picker.xml",
+        "source": "F:\\jindunaaa\\PhotoPicker\\src\\main\\res\\menu\\photopicker_menu_picker.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\photopicker_menu_preview.xml",
+        "source": "F:\\jindunaaa\\PhotoPicker\\src\\main\\res\\menu\\photopicker_menu_preview.xml"
     }
 ]

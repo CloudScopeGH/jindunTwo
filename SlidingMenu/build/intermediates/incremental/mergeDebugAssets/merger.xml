@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\jindun-master\SlidingMenu\assets"/><source path="D:\jindun-master\SlidingMenu\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\jindun-master\SlidingMenu\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\jindunaaa\SlidingMenu\assets"/><source path="F:\jindunaaa\SlidingMenu\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\jindunaaa\SlidingMenu\src\debug\assets"/></dataSet></merger>

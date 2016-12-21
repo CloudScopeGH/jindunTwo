@@ -8,8 +8,8 @@ import butterknife.ButterKnife.ViewBinder;
 public class RegisterActivity$$ViewBinder<T extends com.cloudspace.jindun.activity.RegisterActivity> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131493067, "field 'mRegisterLoge' and method 'onClick'");
-    target.mRegisterLoge = finder.castView(view, 2131493067, "field 'mRegisterLoge'");
+    view = finder.findRequiredView(source, 2131493068, "field 'mRegisterLoge' and method 'onClick'");
+    target.mRegisterLoge = finder.castView(view, 2131493068, "field 'mRegisterLoge'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -18,12 +18,12 @@ public class RegisterActivity$$ViewBinder<T extends com.cloudspace.jindun.activi
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131493069, "field 'mRegisterEtId'");
-    target.mRegisterEtId = finder.castView(view, 2131493069, "field 'mRegisterEtId'");
-    view = finder.findRequiredView(source, 2131493071, "field 'mRegisterEtPrass'");
-    target.mRegisterEtPrass = finder.castView(view, 2131493071, "field 'mRegisterEtPrass'");
-    view = finder.findRequiredView(source, 2131493072, "field 'mRegisterBtShowpass' and method 'onClick'");
-    target.mRegisterBtShowpass = finder.castView(view, 2131493072, "field 'mRegisterBtShowpass'");
+    view = finder.findRequiredView(source, 2131493070, "field 'mRegisterEtId'");
+    target.mRegisterEtId = finder.castView(view, 2131493070, "field 'mRegisterEtId'");
+    view = finder.findRequiredView(source, 2131493072, "field 'mRegisterEtPrass'");
+    target.mRegisterEtPrass = finder.castView(view, 2131493072, "field 'mRegisterEtPrass'");
+    view = finder.findRequiredView(source, 2131493073, "field 'mRegisterBtShowpass' and method 'onClick'");
+    target.mRegisterBtShowpass = finder.castView(view, 2131493073, "field 'mRegisterBtShowpass'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -32,8 +32,8 @@ public class RegisterActivity$$ViewBinder<T extends com.cloudspace.jindun.activi
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131493073, "field 'mRegisterBtShowpassUp' and method 'onClick'");
-    target.mRegisterBtShowpassUp = finder.castView(view, 2131493073, "field 'mRegisterBtShowpassUp'");
+    view = finder.findRequiredView(source, 2131493074, "field 'mRegisterBtShowpassUp' and method 'onClick'");
+    target.mRegisterBtShowpassUp = finder.castView(view, 2131493074, "field 'mRegisterBtShowpassUp'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -42,8 +42,8 @@ public class RegisterActivity$$ViewBinder<T extends com.cloudspace.jindun.activi
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131493074, "field 'mRegisterTvForgetpass' and method 'onClick'");
-    target.mRegisterTvForgetpass = finder.castView(view, 2131493074, "field 'mRegisterTvForgetpass'");
+    view = finder.findRequiredView(source, 2131493075, "field 'mRegisterTvForgetpass' and method 'onClick'");
+    target.mRegisterTvForgetpass = finder.castView(view, 2131493075, "field 'mRegisterTvForgetpass'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(

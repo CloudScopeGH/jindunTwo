@@ -1,11 +1,199 @@
 [
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head0.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head0.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head8.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head8.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head3.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head3.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\group_add_enable.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\group_add_enable.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_add_cancel_normal.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\icon_add_cancel_normal.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head2.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head2.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_square_disable.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_square_disable.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_gray.9.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_gray.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\member_delete_normal.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\member_delete_normal.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_gray.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_gray.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_green.9.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head9.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\member_delete_click.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\member_delete_click.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head8.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head8.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_uc.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_uc.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head3.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head3.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head2.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head2.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_away_small.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\recent_away_small.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_offline_small.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\recent_offline_small.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netset_botton_press.9.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\netset_botton_press.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_add_cancel_click.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\icon_add_cancel_click.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head_bg.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head_bg.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netset_botton_press.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\netset_botton_press.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head9.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_head_local.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\default_head_local.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_contact_normal_head.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_normal_head.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_press.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_green_press.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_corner_circle_internal_shadow.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\bg_corner_circle_internal_shadow.9.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_uc.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_uc.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head7.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head7.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head4.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head4.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head1.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head1.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_add_cancel_click.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\icon_add_cancel_click.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_head.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\default_head.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_away_small.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\recent_away_small.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green.9.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_green.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head_bg_big.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head_bg_big.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head_bg.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head_bg.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_corner_circle_internal_shadow.9.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\bg_corner_circle_internal_shadow.9.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_call_head.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\bg_call_head.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_busy_small.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\recent_busy_small.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_clear_username_normal.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\login_clear_username_normal.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head4.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head4.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head7.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head7.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head1.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head1.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_red_press.9.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_red_press.9.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\member_delete_click.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\member_delete_click.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head0.png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head0.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head5.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head5.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head6.png",
@@ -24,24 +212,36 @@
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\default_head.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_gray.9.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_gray.9.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_bg.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\top_bg.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_square_normal.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_square_normal.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head_bg_big.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head_bg_big.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head9.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head9.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_contact_normal_head.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_normal_head.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head8.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head8.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_head_local.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\default_head_local.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netset_botton.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\netset_botton.9.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_clear_username_pressed.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\login_clear_username_pressed.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_offline_small.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\recent_offline_small.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_square_disable.png",
@@ -52,12 +252,8 @@
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head2.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head2.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_offline_small.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\recent_offline_small.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head6.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head6.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_square_unselected.png",
@@ -68,64 +264,40 @@
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_square_normal.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netset_botton_press.9.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\netset_botton_press.9.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_square_unselected.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_square_unselected.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head_bg.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head_bg.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_online_small.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\recent_online_small.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head5.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head5.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_head_local.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\default_head_local.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_red_press.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_red_press.9.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_contact_normal_head.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_normal_head.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_square_selected.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_square_selected.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_bg.9.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\top_bg.9.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_uc.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_uc.png"
-    },
-    {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_clear_username_normal.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\login_clear_username_normal.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head7.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head7.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head4.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head4.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head1.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\head1.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_online_small.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\recent_online_small.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_add_cancel_click.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\icon_add_cancel_click.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green.9.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_green.9.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_away_small.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\recent_away_small.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_call_head.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\bg_call_head.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\member_delete_normal.png",
@@ -136,36 +308,36 @@
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_square_selected.png"
     },
     {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\head0.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\head0.png"
+    },
+    {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\netset_botton.9.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\netset_botton.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_red.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\btn_red.9.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_red.9.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_red.9.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_corner_circle_internal_shadow.9.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\bg_corner_circle_internal_shadow.9.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_add_cancel_normal.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\icon_add_cancel_normal.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_call_head.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\bg_call_head.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_clear_username_pressed.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\login_clear_username_pressed.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_busy_small.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\recent_busy_small.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_red_press.9.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\btn_red_press.9.png"
-    },
-    {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\member_delete_click.png",
-        "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-hdpi\\member_delete_click.png"
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recent_busy_small.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-hdpi\\recent_busy_small.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_green_press.9.png",

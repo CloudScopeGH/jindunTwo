@@ -4,12 +4,28 @@
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-mdpi\\live_private_chat_new.png"
     },
     {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_bg.9.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-mdpi\\loading_bg.9.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\live_private_chat_new.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-mdpi\\live_private_chat_new.png"
+    },
+    {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-mdpi\\loading.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_bg.9.png",
@@ -20,7 +36,15 @@
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-mdpi\\backbtn_black.png"
     },
     {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\my_loading.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-mdpi\\my_loading.png"
+    },
+    {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\my_loading.png",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\drawable-mdpi\\my_loading.png"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\backbtn_black.png",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable-mdpi\\backbtn_black.png"
     }
 ]

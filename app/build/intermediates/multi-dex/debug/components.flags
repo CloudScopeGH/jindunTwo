@@ -1,5 +1,5 @@
--injars 'D:\jindun-master\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
--outjars 'D:\jindun-master\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+-injars 'F:\jindunaaa\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'F:\jindunaaa\app\build\intermediates\multi-dex\debug\componentClasses.jar'
 
 -libraryjars 'D:\adt-bundle-windows-x86-20130729\sdk\build-tools\24.0.0\lib\shrinkedAndroid.jar'
 
@@ -10,7 +10,7 @@
 -dontpreverify
 -dontnote **
 -dontwarn **
--printconfiguration 'D:\jindun-master\app\build\intermediates\multi-dex\debug\components.flags'
+-printconfiguration 'F:\jindunaaa\app\build\intermediates\multi-dex\debug\components.flags'
 
 
 # view AndroidManifest.xml #generated:165

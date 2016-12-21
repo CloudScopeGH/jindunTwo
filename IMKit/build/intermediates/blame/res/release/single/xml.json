@@ -2,5 +2,9 @@
     {
         "merged": "D:\\jindun-master\\IMKit\\build\\intermediates\\res\\merged\\release\\xml\\rc_file_path.xml",
         "source": "D:\\jindun-master\\IMKit\\src\\main\\res\\xml\\rc_file_path.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\IMKit\\build\\intermediates\\res\\merged\\release\\xml\\rc_file_path.xml",
+        "source": "F:\\jindunaaa\\IMKit\\src\\main\\res\\xml\\rc_file_path.xml"
     }
 ]

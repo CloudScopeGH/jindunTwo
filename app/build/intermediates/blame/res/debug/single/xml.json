@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\xml\\rc_file_path.xml",
+        "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\xml\\rc_file_path.xml"
+    },
+    {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\rc_file_path.xml",
         "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\IMKit\\unspecified\\res\\xml\\rc_file_path.xml"
     }

@@ -4,6 +4,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.text.InputType;
+import android.text.method.HideReturnsTransformationMethod;
+import android.text.method.PasswordTransformationMethod;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -12,6 +14,8 @@ import android.widget.Toast;
 
 import com.cloudspace.jindun.R;
 import com.cloudspace.jindun.view.CircleImageView;
+
+import org.w3c.dom.Text;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
@@ -32,6 +36,8 @@ public class RegisterActivity extends AppCompatActivity {
     @Bind(R.id.register_tv_forgetpass)
     TextView mRegisterTvForgetpass;
     private boolean isshow=true;
+    private String idEtText="1";
+    private String passEtText="1";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,35 +45,39 @@ public class RegisterActivity extends AppCompatActivity {
         ButterKnife.bind(this);
     }
 
+
+
     @OnClick({R.id.register_loge, R.id.register_bt_showpass, R.id.register_bt_showpass_up, R.id.register_tv_forgetpass})
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.register_loge:
-                Toast.makeText(RegisterActivity.this, "1111", Toast.LENGTH_SHORT).show();
+
                 break;
             case R.id.register_bt_showpass:
-                Toast.makeText(RegisterActivity.this, "222", Toast.LENGTH_SHORT).show();
+
                 //inputType
                 if (isshow){
-                    mRegisterEtPrass.setInputType(InputType.TYPE_CLASS_TEXT);
+                    mRegisterEtPrass.setTransformationMethod(HideReturnsTransformationMethod.getInstance());
                     mRegisterBtShowpass.setText("隐藏密码");
                     isshow=false;
                 }else {
-                    mRegisterEtPrass.setInputType(InputType.TYPE_TEXT_VARIATION_PASSWORD);
+                    mRegisterEtPrass.setTransformationMethod(PasswordTransformationMethod.getInstance());
                     mRegisterBtShowpass.setText("显示密码");
                     isshow=true;
                 }
 
                 break;
             case R.id.register_bt_showpass_up:
-                Toast.makeText(RegisterActivity.this, "333", Toast.LENGTH_SHORT).show();
+                idEtText=mRegisterEtId.getText().toString();
+                passEtText=mRegisterEtPrass.getText().toString();
+
                 Intent intent = new Intent();
                 intent.setClass(RegisterActivity.this, MainActivity.class);
                 startActivity(intent);
                 finish();
                 break;
             case R.id.register_tv_forgetpass:
-                Toast.makeText(RegisterActivity.this, "444", Toast.LENGTH_SHORT).show();
+
                 Intent intent2 = new Intent();
                 intent2.setClass(RegisterActivity.this, ForgetpassActivity.class);
                 startActivity(intent2);
