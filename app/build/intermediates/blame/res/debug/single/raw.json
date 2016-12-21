@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\emoji2pos.txt",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\raw\\emoji2pos.txt"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\main_slogan_png",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\raw\\main_slogan_png"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\emoji2pos_v2.txt",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\raw\\emoji2pos_v2.txt"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\symbol.txt",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\raw\\symbol.txt"
+    }
+]

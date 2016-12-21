@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:165
+-keep class io.rong.push.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:160
+-keep class io.rong.push.PushService { <init>(...); }
+

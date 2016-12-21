@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\photopicker_menu_preview.xml",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\menu\\photopicker_menu_preview.xml"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\photopicker_menu_picker.xml",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\menu\\photopicker_menu_picker.xml"
+    }
+]

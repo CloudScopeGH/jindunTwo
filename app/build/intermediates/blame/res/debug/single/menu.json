@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\photopicker_menu_picker.xml",
+        "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\PhotoPicker\\unspecified\\res\\menu\\photopicker_menu_picker.xml"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\photopicker_menu_preview.xml",
+        "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\PhotoPicker\\unspecified\\res\\menu\\photopicker_menu_preview.xml"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\jindun-master\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

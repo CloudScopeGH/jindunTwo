@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_photo_black_48dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_photo_black_48dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_delete_white_24dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_camera_black_48dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_camera_black_48dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_delete_grey600_24dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_delete_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_broken_image_black_48dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_broken_image_black_48dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_checkbox_blank_grey600_24dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_checkbox_blank_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_camera_grey600_48dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_camera_grey600_48dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_ic_delete_black_24dp.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\photopicker_checkbox_marked.png",
+        "source": "D:\\jindun-master\\PhotoPicker\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\photopicker_checkbox_marked.png"
+    }
+]

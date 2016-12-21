@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cloudspace.photopicker.test" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="23" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.cloudspace.photopicker.test"
+        android:targetPackage="com.cloudspace.photopicker.test" />
+
+    <activity
+        android:name="com.cloudspace.photopicker.PhotoPickerActivity"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+    <activity
+        android:name="com.cloudspace.photopicker.PhotoPagerActivity"
+        android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>
