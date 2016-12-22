@@ -8,9 +8,7 @@
     android:background="#fff">
     <RelativeLayout
         android:id="@+id/rl"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="#8b8a8a">
+        style="@style/title__m5">
         <ImageView
             android:id="@+id/back"
             android:layout_width="wrap_content"

@@ -12,12 +12,12 @@
         "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\PhotoPicker\\unspecified\\res\\drawable\\photopicker_title_bar.9.png"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_public_service_unfollow_selector.xml",
-        "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\IMKit\\unspecified\\res\\drawable\\rc_btn_public_service_unfollow_selector.xml"
-    },
-    {
         "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_voice.xml",
         "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\drawable\\rc_btn_voice.xml"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_public_service_unfollow_selector.xml",
+        "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\IMKit\\unspecified\\res\\drawable\\rc_btn_public_service_unfollow_selector.xml"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_sel_picsel_toolbar_back.xml",
@@ -100,12 +100,12 @@
         "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\drawable\\rc_voice_input_selector.xml"
     },
     {
-        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_item_top_list_selector.xml",
-        "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\IMKit\\unspecified\\res\\drawable\\rc_item_top_list_selector.xml"
-    },
-    {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_item_top_list_selector.xml",
+        "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\IMKit\\unspecified\\res\\drawable\\rc_item_top_list_selector.xml"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_bg_menu.xml",
@@ -122,6 +122,10 @@
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_an_voice_sent.xml",
         "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\IMKit\\unspecified\\res\\drawable\\rc_an_voice_sent.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_circularbead.xml",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\drawable\\view_circularbead.xml"
     },
     {
         "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_menu_keyboard_selector.xml",
@@ -244,12 +248,12 @@
         "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_phone_selector.xml",
-        "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\drawable\\rc_ic_phone_selector.xml"
-    },
-    {
         "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_btn_input.xml",
         "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\drawable\\rc_btn_input.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rc_ic_phone_selector.xml",
+        "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\drawable\\rc_ic_phone_selector.xml"
     },
     {
         "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",

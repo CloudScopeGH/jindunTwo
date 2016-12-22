@@ -36,12 +36,12 @@
         "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\layout\\rc_ac_albums.xml"
     },
     {
-        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_grid_item.xml",
-        "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\layout\\rc_picsel_grid_item.xml"
-    },
-    {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_public_service_input_menu.xml",
         "source": "D:\\jindun-master\\app\\build\\intermediates\\exploded-aar\\jindun-master\\IMKit\\unspecified\\res\\layout\\rc_item_public_service_input_menu.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rc_picsel_grid_item.xml",
+        "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\layout\\rc_picsel_grid_item.xml"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
@@ -198,6 +198,10 @@
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jd_main_activity.xml",
         "source": "D:\\jindun-master\\app\\src\\main\\res\\layout\\jd_main_activity.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wd.xml",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\layout\\activity_wd.xml"
     },
     {
         "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rc_fr_conversationlist.xml",
@@ -798,6 +802,10 @@
     {
         "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rc_item_group_conversation.xml",
         "source": "F:\\jindunaaa\\app\\build\\intermediates\\exploded-aar\\jindunaaa\\IMKit\\unspecified\\res\\layout\\rc_item_group_conversation.xml"
+    },
+    {
+        "merged": "F:\\jindunaaa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "F:\\jindunaaa\\app\\src\\main\\res\\layout\\alert_dialog.xml"
     },
     {
         "merged": "D:\\jindun-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",

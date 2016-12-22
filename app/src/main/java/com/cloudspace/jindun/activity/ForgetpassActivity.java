@@ -50,7 +50,6 @@ public class ForgetpassActivity extends AppCompatActivity {
                 finish();
                 break;
             case R.id.forget_bt_addImage:
-                Toast.makeText(ForgetpassActivity.this, "111", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent();
                 //intent = new Intent(Intent.ACTION_GET_CONTENT);
                 /* 开启Pictures画面Type设定为image */

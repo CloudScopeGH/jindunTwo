@@ -19,7 +19,7 @@ public final class R {
 	public static final class string {
 		public static final int rc_init_failed = 0x7f070084;
 		public static final int rc_location_sharing_ended = 0x7f07009a;
-		public static final int rc_media_message_default_save_path = 0x7f07012a;
+		public static final int rc_media_message_default_save_path = 0x7f07012c;
 		public static final int rc_notification_new_msg = 0x7f0700ba;
 		public static final int rc_notification_new_plural_msg = 0x7f0700bb;
 		public static final int rc_notification_ticker_text = 0x7f0700bc;

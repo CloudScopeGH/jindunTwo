@@ -629,9 +629,10 @@
         <item name="android:layout_height">match_parent</item>
     </style>
 
-    <style name="style_m5">
+    <style name="title__m5">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">50dp</item>
+        <item name="android:background">#8b8a8a</item>
     </style>
 
     <style name="style_ww">

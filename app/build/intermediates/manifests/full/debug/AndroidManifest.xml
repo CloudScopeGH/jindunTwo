@@ -83,13 +83,15 @@
         <activity android:name="com.cloudspace.jindun.activity.ReportActivity" >
         </activity>
         <activity android:name="com.cloudspace.jindun.activity.RegisterActivity" >
+        </activity>
+        <activity android:name="com.cloudspace.jindun.activity.ForgetpassActivity" >
+        </activity>
+        <activity android:name="com.cloudspace.jindun.activity.WdActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name="com.cloudspace.jindun.activity.ForgetpassActivity" >
         </activity>
         <activity android:name="io.rong.imkit.plugin.location.AMapLocationActivity" />
         <activity android:name="io.rong.imkit.plugin.location.AMapPreviewActivity" />

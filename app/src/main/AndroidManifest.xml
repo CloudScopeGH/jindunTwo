@@ -51,7 +51,6 @@
             android:name=".activity.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar">
-
         </activity>
 
         <receiver
@@ -65,13 +64,17 @@
         <activity android:name=".activity.ReportActivity">
         </activity>
         <activity android:name=".activity.RegisterActivity">
+        </activity>
+        <activity android:name=".activity.ForgetpassActivity">
+        </activity>
+        <activity android:name=".activity.WdActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".activity.ForgetpassActivity">
+        <activity android:name=".activity.CellActivitye">
         </activity>
     </application>
 
